@@ -1,5 +1,5 @@
 {% set name = "nikola" %}
-{% set version = "8.2.0" %}
+{% set version = "8.2.2" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/Nikola-{{ version }}.tar.gz
-  sha256: 9998fedfcb932e19e3b54faeb497a49cde8b15163af764c5afe5847fef5ec1ff
+  sha256: 95f4ab051c2458c1d31442782a6ad6231f5720c3b923d5f172e25eef34f126c1
 
 build:
   number: 0
