@@ -1,11 +1,11 @@
-About nikola
-============
+About nikola-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/nikola-feedstock/blob/main/LICENSE.txt)
 
 Home: https://getnikola.com/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/nikola-feedstock/blob/main/LICENSE.txt)
 
 Summary: A modular, fast, simple, static website and blog generator
 
