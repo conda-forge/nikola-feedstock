@@ -7,7 +7,7 @@ package:
   version: {{ version }}
 
 source:
-  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/nikola-{{ version }}.tar.gz
+  url: https://files.pythonhosted.org/packages/source/{{ name[0] }}/{{ name }}/nikola-{{ version }}.tar.gz
   sha256: 636d7d6ffc2ab24f4c2649e8695f8bb5604e309153ea4b60b786facae03ab1c7
 
 build:
